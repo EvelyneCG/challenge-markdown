@@ -33,9 +33,10 @@ someone needs help, if I can help you then I'll help with big pleasure (Hope you
 I'm super hyped to be in the training and to learn all I can in coding.
 Sometimes it's hard but I'm doing my best to understand as much as I can by myself. I'm not afraid to ask if I need help. So be aware of that guys.
 
+##### A funny story
 I'm a crazy person, for example, in my head there is 18746 people living in buildings created by my little brain but we're all loving each others and have a happy life even if we need more unicorns but that's not the point...
 
-##### TL;DR
+###### TL;DR
 My psychiatrist says as long as I don't bite anyone I can see people.
 
-<< previous || EVELYNE || [Evrard](https://github.com/evrardsibo/challenge-markdown/tree/chall)
+[<< Emerson](https://github.com/Hallomoto-beta/challenge-markdown/blob/main/markdown.md) || EVELYNE || [Evrard >>](https://github.com/evrardsibo/challenge-markdown/tree/chall)
