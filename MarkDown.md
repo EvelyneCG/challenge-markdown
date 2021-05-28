@@ -12,7 +12,10 @@ Favorite color | RED !
 Favorite food | Spaghetti bolognese
 
 
-Pinneapple on pizza Yes - [ ] No - [x]
+Pinneapple on pizza:
+
+- [ ] Yes
+- [x] No
 
 
 ### Hobbies
