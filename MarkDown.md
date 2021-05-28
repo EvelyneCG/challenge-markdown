@@ -24,7 +24,7 @@ Pinneapple on pizza Yes [ ] No [x]
 	* Star Wars
 	* and much more...
 * Dogs
-* Children
+* Children (especially my son Matt)
 * Food
 
 #### You can always count on me when
