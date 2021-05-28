@@ -1,5 +1,5 @@
 # Evelyne Colaço Garcia
-*Never let the fear of striking out keep you from playing the game*
+*"Never let the fear of striking out keep you from playing the game"* Babe Ruth.
 ![Me](https://media-exp1.licdn.com/dms/image/C4E03AQGe5ZIdRPAbhQ/profile-displayphoto-shrink_800_800/0/1620902215163?e=1627516800&v=beta&t=hdO8LBXx5v7BtN3RH-p-eRBm4TMLh1TOAE2CnrGH1JY)
 
 ## Let's talk about me...
@@ -29,7 +29,7 @@ Pinneapple on pizza Yes [ ] No [x]
 
 #### You can always count on me when
 
-someone needs help, if I can help you then I'll help with big pleasure (Hope you'll help me too).
+Someone needs help, if I can help you then I'll help with big pleasure (Hope you'll help me too).
 I'm super hyped to be in the training and to learn all I can in coding.
 Sometimes it's hard but I'm doing my best to understand as much as I can by myself. I'm not afraid to ask if I need help. So be aware of that guys.
 
